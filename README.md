@@ -1,1 +1,1 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/764138386709544971?bg=1f1f1f&animated=true&showDisplayName=true)](https://discord.com/users/764138386709544971)
+<img src="https://myreadme.vercel.app/api/embed/notcharliee?panels=userstatistics,toplanguages,commitgraph&color=a400ff" alt="reimaginedreadme" width="1440">
